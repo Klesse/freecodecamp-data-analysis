@@ -44,3 +44,7 @@ Making a linear regression to predict sea level picking different ranges of the 
 
 ## Certification
 ![alt enter](https://github.com/Klesse/freecodecamp-data-analysis/blob/master/certificate.png)
+
+## Author
+
+[Pedro Malandrin Klesse](https://www.github.com/Klesse)
