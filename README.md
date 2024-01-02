@@ -13,10 +13,10 @@ This course contemplates analysis of different types of data, and how to summari
 
 Some skills learned throughout the course:
 
-1. Data manipulation with numpy as pandas
-2. Plotting data with matplotlib and seaborn
-3. Statistical fundaments (mean, variance, correlation, etc.)
-4. Summarizing data to get insights
+1. Data manipulation with numpy and pandas.
+2. Plotting data with matplotlib and seaborn.
+3. Statistical fundaments (mean, variance, correlation, etc.).
+4. Summarizing data to get insights.
 
 The course offers when you finish it a certification, but to get it the student has to make five projets.
 
