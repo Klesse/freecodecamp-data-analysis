@@ -4,7 +4,7 @@
 
 ![image](https://github.com/Klesse/freecodecamp-data-analysis/assets/62315031/5067a90d-8e77-4b33-9ef5-108acaaf18dc)
 
-[Freecodecamp](https://www.freecodecamp.org) is a online platform that offers free learning content about different areas of technology, such as data science, linux, web development and more.
+[Freecodecamp](https://www.freecodecamp.org) is a online platform that offers free learning content about different areas of technology, such as data science, linux, web development, database query and more.
 
 
 ## About the course
