@@ -26,21 +26,31 @@ The course offers when you finish it a certification, but to get it the student 
 
 A basic approach to summarize this statistics (mean, variance, standard deviation) about data in a python dictionary.
 
+In **mean_variance_standard_deviation_calculator.ipynb**.
+
 ### 2. Demographic Data Analyzer
 
 Awnsering questions about a demographic dataset.
+
+In **demographic.ipynb**.
 
 ### 3. Medical Data Visualizer
 
 Plotting and visualizing correlation between attributes from a medical dataset.
 
+In **medical_data_analysis.ipynb**.
+
 ### 4. Page View Time Series Visualizer
 
 Manipulating time series data, as reindexing and setting time data to datetime type. Visualizing the series as boxplots to get insights.
 
+In **time_series_visualizer.ipynb**.
+
 ### 5. Sea Level Predictor
 
 Making a linear regression to predict sea level picking different ranges of the data.
+
+In **Sea_Level_Predictor.ipynb**.
 
 ## Certification
 ![alt enter](https://github.com/Klesse/freecodecamp-data-analysis/blob/master/certificate.png)
