@@ -42,5 +42,5 @@ Manipulating time series data, as reindexing and setting time data to datetime t
 
 Making a linear regression to predict sea level picking different ranges of the data.
 
-## Certificate
+## Certification
 ![alt enter](https://github.com/Klesse/freecodecamp-data-analysis/blob/master/certificate.png)
